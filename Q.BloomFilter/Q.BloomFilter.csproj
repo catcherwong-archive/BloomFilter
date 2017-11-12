@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Q.BloomFilter</AssemblyName>
+    <RootNamespace>Q.BloomFilter</RootNamespace>
+    <Authors>Catcher Wong</Authors>
+    <Description>Bloom Filter library in CSharp</Description>
+    <Copyright>Catcher Wong</Copyright>
+  </PropertyGroup>
+
+</Project>
